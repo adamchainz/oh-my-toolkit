@@ -12,7 +12,7 @@ Oh My! Toolkit
 A MySQL toolkit.
 
 * Free software: BSD license
-* Documentation: https://oh-my-toolkit.readthedocs.org.
+* Documentation: https://oh-my-toolkit.readthedocs.io.
 
 Features
 --------
